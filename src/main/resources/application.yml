@@ -1,0 +1,9 @@
+server:
+    port: 9080
+
+email:
+  host: smtp.163.com
+  port: 25
+  username: myemail
+  password: mypasword
+  recive-user: recievEmail1,recievEmail2
